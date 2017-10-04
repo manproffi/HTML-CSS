@@ -1,0 +1,143 @@
+body {
+	background-color: grey;
+}
+
+.headbox{
+	position: relative;
+	background-color: #909090;
+	width: 1200px;
+	height: 120px;
+	border-radius: 16px;
+	box-shadow: 10px 10px 5px black;
+}
+#day {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+#close {
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+}
+#reload{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+#loupe{
+	position: absolute;
+	right: 70px;
+	top: 20px;
+}
+.bodybox {
+	width: 1200px;
+	position: relative;
+	padding-top: 20px;
+}
+
+.box1, .box3 {
+	display: inline-block;
+	position: absolute;
+	background-color: #909090;
+	width: 140px;
+	height: 340px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px black;
+}
+
+
+.box1 {
+
+	left: 30px;
+
+}
+.box2 {
+	display: inline-block;
+	background-color: #909090;
+	width: 810px;
+	border-radius: 10px;
+	padding-top: 8px;
+	padding-bottom: 4px;
+	box-shadow: 10px 10px 5px black;
+
+}
+.box3 {
+
+	right: 30px;
+}
+
+.left_img {
+	display: block;
+	margin-top: 8px;
+}
+
+#border_red {
+	border: solid;
+	border-color: red;
+	border-radius: 5px;
+	border-width: 5px;
+}
+
+.right_img {
+	display: block;
+	margin: 8px;
+}
+
+
+.green-form {
+	background-color: #88ff89;
+	border-radius: 10px;
+	width: 500px;
+	height: 150px;
+	position: relative;
+	left: 100px; 
+	box-shadow: 10px 10px 5px black;
+	font-family: sans-serif;
+	margin-top: -80px;
+}
+
+
+p {
+	margin-left: 10px;
+	margin-bottom: 0px;
+}
+
+.entrez {
+	font-size: 30px;
+	font-family: serif;
+	font-family: Georgia;
+}
+
+input.text-form {
+	width: 70%;
+	margin-left: 10px;
+}
+
+input.submit-form {
+	margin-left: 10px;
+}
+
+.ordinateurs {
+	text-shadow: 4px 4px 6px red;
+}
+
+.apple {
+	position: absolute;
+	background-color: transparent;
+	width: 150px;
+	height: 100px;
+	right: 220px;
+	bottom: 100px;
+}
+
+.ikea {
+	position: absolute;
+	background-color: transparent;
+	width: 100px;
+	height: 160px;
+	left: 450px;
+	bottom: 50px;
+}
+
+

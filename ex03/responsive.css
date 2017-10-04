@@ -1,0 +1,51 @@
+body {
+	background-color: grey;
+	font-family: "Times New Roman";
+	font-size: 2vmin;
+}
+
+table {
+	font-style: normal;
+	padding: 2%;
+}
+p {
+	margin: 1%;
+}
+
+h1 {
+	text-align: center;
+}
+
+.picture {
+	text-align: center;
+}
+
+.mass {
+	vertical-align: top;
+	text-align: right
+}
+.name {
+	font-weight: bold;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 3vmin;
+}
+.num {
+	vertical-align: bottom;
+	text-align: left
+}
+#lan {
+	background-color: lime
+}
+#act {
+	background-color: green
+}
+#sElem {
+	background-color: rgb(204,0,102);
+}
+#dElem {
+	background-color: rgb(102,102,255);}
+
+#pElem {
+	background-color: rgb(255,222,0)
+}
